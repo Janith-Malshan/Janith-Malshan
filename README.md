@@ -1,22 +1,19 @@
-<h1 align="center">Hi 👋, I'm Janith Malshan</h1> 
-
-🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 🛠️ Arduino Developer | 💻 Java Software Creator
+<h1 align="center">Hi 👋, I'm Janith Malshan</h1>
+<h3 align="center">🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 🛠️ Arduino Developer | 💻 Java Software Creator</h3>
 
 - 🌱 I’m currently learning **C**
+
+- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **janithmalshan02@gmail.com**
 
----
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/janith malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith malshan" height="30" width="40" /></a>
 <a href="https://fb.com/janith malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janith malshan" height="30" width="40" /></a>
 <a href="https://instagram.com/_janith_malshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_janith_malshan_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janith malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith malshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
