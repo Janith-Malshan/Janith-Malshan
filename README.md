@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **janithmalshan02@gmail.com**
 
