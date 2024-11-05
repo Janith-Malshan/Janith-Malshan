@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Malshan</h1> 
 
+🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 🛠️ Arduino Developer | 💻 Java Software Creator
 
 - 🌱 I’m currently learning **C**
 
