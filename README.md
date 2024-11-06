@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janith Malshan</h1>
-<h3 align="center">🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 🛠️ Arduino Developer | 💻 Java Software Creator</h3>
+<h3 align="center">🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 💻 Passionate for Programming </h3>
 
 - 🌱 I’m currently learning **C**
 
