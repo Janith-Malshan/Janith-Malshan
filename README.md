@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Janith Malshan</h1>
+
 <h3 align="center">🔌 EEE Undergraduate | 🤖 Robotics Enthusiast | 💻 Passionate for Programming </h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+<br>
 
 - 🌱 I’m currently learning **C**
-
-
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **janithmalshan02@gmail.com**
-
+<br>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/janith.malshan.796/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janith malshan" height="50" width="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -50,3 +53,7 @@
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
+
+
